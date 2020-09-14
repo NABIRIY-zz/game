@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "wall3",
-    "path": "sprites/wall3/wall3.yy",
+    "name": "wall_end",
+    "path": "sprites/wall_end/wall_end.yy",
   },
   "solid": false,
   "visible": true,
@@ -36,7 +36,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_wall",
+  "name": "obj_wall_end",
   "tags": [],
   "resourceType": "GMObject",
 }

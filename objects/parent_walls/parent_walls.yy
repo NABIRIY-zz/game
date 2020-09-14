@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "wall3",
-    "path": "sprites/wall3/wall3.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "parent_walls",
-    "path": "objects/parent_walls/parent_walls.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": true,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -22,13 +16,10 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [
-    {"x":0.0,"y":0.0,},
-    {"x":8.0,"y":0.0,},
-    {"x":8.0,"y":8.0,},
-    {"x":0.0,"y":8.0,},
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"parent_walls","path":"objects/parent_walls/parent_walls.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
-  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -36,7 +27,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_wall",
+  "name": "parent_walls",
   "tags": [],
   "resourceType": "GMObject",
 }
