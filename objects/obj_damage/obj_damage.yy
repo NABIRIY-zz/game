@@ -21,13 +21,14 @@
   "physicsKinematic": false,
   "physicsShapePoints": [
     {"x":0.0,"y":0.0,},
-    {"x":5.0,"y":0.0,},
-    {"x":5.0,"y":5.0,},
-    {"x":0.0,"y":5.0,},
+    {"x":10.0,"y":0.0,},
+    {"x":10.0,"y":10.0,},
+    {"x":0.0,"y":10.0,},
   ],
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"parent_living","path":"objects/parent_living/parent_living.yy",},"parent":{"name":"obj_damage","path":"objects/obj_damage/obj_damage.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_damage","path":"objects/obj_damage/obj_damage.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_damage","path":"objects/obj_damage/obj_damage.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
