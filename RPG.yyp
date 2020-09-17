@@ -2,7 +2,6 @@
   "resources": [
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
     {"id":{"name":"obj_wall_corner","path":"objects/obj_wall_corner/obj_wall_corner.yy",},"order":5,},
-    {"id":{"name":"test","path":"sprites/test/test.yy",},"order":12,},
     {"id":{"name":"TileSetback","path":"tilesets/TileSetback/TileSetback.yy",},"order":0,},
     {"id":{"name":"plate","path":"sprites/plate/plate.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
