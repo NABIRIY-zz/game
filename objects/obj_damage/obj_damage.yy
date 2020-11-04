@@ -21,9 +21,9 @@
   "physicsKinematic": false,
   "physicsShapePoints": [
     {"x":0.0,"y":0.0,},
-    {"x":10.0,"y":0.0,},
-    {"x":10.0,"y":10.0,},
-    {"x":0.0,"y":10.0,},
+    {"x":64.0,"y":0.0,},
+    {"x":64.0,"y":64.0,},
+    {"x":0.0,"y":64.0,},
   ],
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"parent_living","path":"objects/parent_living/parent_living.yy",},"parent":{"name":"obj_damage","path":"objects/obj_damage/obj_damage.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
