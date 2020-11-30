@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "hero_move_down",
-    "path": "sprites/hero_move_down/hero_move_down.yy",
+    "name": "hero",
+    "path": "sprites/hero/hero.yy",
   },
   "solid": false,
   "visible": true,
